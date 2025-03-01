@@ -34,7 +34,7 @@ I'm a **DevOps Engineer** passionate about **automation, cloud-to-on-prem migrat
 
 ## 📫 **Get in Touch**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinni-venkata-saikumar-0262a4263/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikumarchinni9652/Saikumar)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saikumar-Chinni/Saikumar)  
 
 ---
 
