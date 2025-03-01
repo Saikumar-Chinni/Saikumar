@@ -4,20 +4,6 @@
 
 I'm a **DevOps Engineer** passionate about **automation, cloud-to-on-prem migration, CI/CD, and infrastructure management**. With hands-on experience in tools like **Kubernetes, Docker, Jenkins, and ArgoCD**, I help teams deploy scalable applications efficiently.  
 
----
-
-## 🏆 **Experience**  
-### 🔹 **DevOps Engineer | Pinaca Technologies (Jan 2023 - Present)**  
-- Led **cloud-to-on-premises migration** for secure infrastructure.  
-- Managed **Kubernetes-based Docker registries** and multi-language deployments (Python, Go, Java).  
-- Automated CI/CD workflows using **Jenkins, SonarQube, Trivy, and ArgoCD**.  
-- Deployed and managed **internal applications** (WireGuard, Nextcloud, Plane).  
-- Configured **GPU servers** for ML workloads (NVIDIA drivers, CUDA, Docker passthrough).  
-- Developed **ML model APIs** with FastAPI/Flask for seamless integration.  
-- Automated **daily backups** of internal applications using **Apache Airflow**.  
-
----
-
 ## 🛠️ **Tech Stack & Tools**  
 
 ### 🖥️ **Infrastructure & Cloud**  
